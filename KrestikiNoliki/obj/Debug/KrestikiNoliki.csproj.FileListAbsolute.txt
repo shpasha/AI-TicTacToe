@@ -1,0 +1,27 @@
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe.config
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.pdb
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Form1.resources
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Properties.Resources.resources
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.GenerateResource.Cache
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.exe
+C:\Users\Паша\Desktop\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.pdb
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe.config
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.exe
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.pdb
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\bin\Debug\KrestikiNoliki.pdb
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.Form1.resources
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.Properties.Resources.resources
+C:\Users\Паша\Desktop\KrestikiNoliki - копия\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.GenerateResource.Cache
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe.config
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.exe
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.pdb
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.pdb
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csprojResolveAssemblyReference.cache
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Form1.resources
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Properties.Resources.resources
+D:\Google Drive\Универ\СИИ\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.GenerateResource.Cache
